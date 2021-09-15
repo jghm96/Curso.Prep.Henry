@@ -1,0 +1,22 @@
+#tercer{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: cornsilk;
+   
+}
+.divClass{
+    color:cyan;
+    background-color:darkorange;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+#cuerpo{
+    background-color: darkgray;
+}
